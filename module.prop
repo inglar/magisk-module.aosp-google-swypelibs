@@ -1,0 +1,6 @@
+id=aosp_google_swypelibs
+name=SwypeLibs library for AOSP keyboard
+version=0.1.0
+versionCode=1
+author=inglar2k
+description=Install SwypeLibs library for AOSP keyboard. Works on LineageOS 19.1
